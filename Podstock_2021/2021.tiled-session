@@ -1,0 +1,1992 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "musikzimmer.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json": {
+            "scale": 1.2868885869565216,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 512.0878424747929,
+                "y": 262.26046560734835
+            }
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#1440-198-max": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#Bierzeltgarnitur": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#BierzeltgarniturHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#BierzeltgarniturNochHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#IngoPodmingo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#KameraAufDreibein": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#PodstockLogo32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#PodstockLogo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#TilesetSofa": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json": {
+            "scale": 2.79375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 272.21476510067106,
+                "y": 214.04921700223713
+            }
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#KameraAufDreibein": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#TilesetSofa": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse1.json#winke-kadse": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse2.json": {
+            "scale": 0.9866145833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.067571134456,
+                "y": 634.4929525418361
+            }
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse2.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse2.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map1.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.5,
+                "y": 480
+            }
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map1.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map1.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map2.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.5,
+                "y": 160
+            }
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map2.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map_starter.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.5,
+                "y": 474
+            }
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map_starter.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map_starter.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/map_starter.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/workadventure-workshop/map1.json": {
+            "scale": 1.2874479166666666,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 744.4961365751042,
+                "y": 406.23002548646787
+            }
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/workadventure-workshop/map1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/workadventure-workshop/map1.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/workadventure-workshop/map1.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json": {
+            "scale": 2.79375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 272.21476510067106,
+                "y": 210.1118568232662
+            }
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#KameraAufDreibein": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#TilesetSofa": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse1.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse2.json": {
+            "scale": 0.9866145833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 640.067571134456,
+                "y": 634.4929525418361
+            }
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse2.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse2.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/ral_mey/Documents/GitHub/workadventure/Kekse/Kekse2.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "1.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1071.5,
+                "y": 1664
+            }
+        },
+        "1.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "1.json#logo-full": {
+            "scaleInDock": 1
+        },
+        "2.json": {
+            "scale": 0.36338641826923074,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1776.3459709761444,
+                "y": 1662.142473229421
+            }
+        },
+        "2.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "2.json#logo-full": {
+            "scaleInDock": 1
+        },
+        "2.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "Kekse.json": {
+            "scale": 3,
+            "selectedLayer": 27,
+            "viewCenter": {
+                "x": 349.33333333333337,
+                "y": 343.5
+            }
+        },
+        "Kekse.json#1440-198-max": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#Bierzeltgarnitur": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#BierzeltgarniturHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#BierzeltgarniturNochHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#IngoPodmingo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#KameraAufDreibein": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#PodstockLogo32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#PodstockLogo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#TilesetSofa": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Kekse1.json": {
+            "scale": 2.948958333333333,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 442.0204874602614,
+                "y": 13.90321441186859
+            }
+        },
+        "Kekse1.json#KameraAufDreibein": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#TilesetSofa": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "Kekse1.json#winke-kadse": {
+            "scaleInDock": 1
+        },
+        "Kekse2.json": {
+            "scale": 1.28,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1172.265625,
+                "y": 400
+            }
+        },
+        "Kekse2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Kekse2.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "Kekse2.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "aussenbereich.json": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 872.7272727272727,
+                "y": 1853.030303030303
+            }
+        },
+        "aussenbereich.json#1440-198-max": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Bierzeltgarnitur": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#BierzeltgarniturHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#BierzeltgarniturNochHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Bleepy Toys Merch": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Bäume": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Collide_Ioniq": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Collide_Sprinter1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Collide_Sprinter2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Collide_Tesla": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Deko-FOH": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#DiscokugelGIF": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#DiscokugelPNG": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#DiscokugelPNG64": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Draufsicht": {
+            "scaleInDock": 1
+        },
+        "aussenbereich.json#Fenster": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Ioniq": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Ioniq180Blau": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Ioniq180Gruen": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Ioniq180Rot": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Ioniq180Weiss": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#IoniqBlau": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#IoniqGruen": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#IoniqRot": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#KameraAufDreibein": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Logos": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Pavel-Jong": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#PodstockLogo32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#PodstockLogo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Sprinter1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Sprinter2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Tesla": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Tesla180": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#TilesetSofa": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Unterhaltungszimmer_Logo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Volleyball-Leine": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#WasnTileset": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Wegmarkierung": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#WegmarkierungNeon": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#Zelt_blau": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#chickbaby": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#collide_Ioniq180": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#collide_IoniqBlau": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#collide_IoniqBlau180": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#collide_IoniqGruen": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#collide_IoniqGruen180": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#collide_IoniqRot": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#collide_IoniqRot180": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#collide_tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#collide_zelt-bunt": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#logo-full": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#logo-full-fluffycloud": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#logo-full-mit-schatten": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#logo-full-nur-schatten": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#logo-full_soft": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#signet": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#tileset-basechip-pipoya": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#tileset_discokugel": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#tileset_lagerfeuer_gross": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#zelt-bunt": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "aussenbereich.json#zelt_logos": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json": {
+            "scale": 1,
+            "selectedLayer": 63,
+            "viewCenter": {
+                "x": 807,
+                "y": 734.5
+            }
+        },
+        "aussenbereich2.json#Bäume": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#Fenster": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#KameraAufDreibein": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#Logos": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#PodstockLogo32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#PodstockLogo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#WasnTileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#collide_zelt-bunt": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#dark": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#love": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#tileset_lagerfeuer_gross": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#zelt-bunt": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "aussenbereich2.json#zelt_logos": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "aussenbereich_Bühne.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 943.5,
+                "y": 1394
+            }
+        },
+        "aussenbereich_Bühne.json#1440-198-max": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Bierzeltgarnitur": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#BierzeltgarniturHeller": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#BierzeltgarniturNochHeller": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Bleepy Toys Merch": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Bäume": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Collide_Sprinter1": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Collide_Sprinter2": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Collide_Tesla": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Deko-FOH": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#DiscokugelPNG64": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Fenster": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Ioniq": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Ioniq180Blau": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Ioniq180Gruen": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Ioniq180Rot": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Ioniq180Weiss": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#IoniqBlau": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#IoniqGruen": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#IoniqRot": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#KameraAufDreibein": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Logos": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Pavel-Jong": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#PodstockLogo32": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#PodstockLogo64": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Sprinter1": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Tesla": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Tesla180": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#TilesetSofa": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Unterhaltungszimmer_Logo": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Volleyball-Leine": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#WasnTileset": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Wegmarkierung": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#WegmarkierungNeon": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#Zelt_blau": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#chickbaby": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#collide_IoniqBlau": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#collide_tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#collide_zelt-bunt": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#logo-full": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#logo-full-fluffycloud": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#logo-full-mit-schatten": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#logo-full-nur-schatten": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#logo-full_soft": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#signet": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#tileset_discokugel": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#tileset_lagerfeuer_gross": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#winke-kadse": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#zelt-bunt": {
+            "scaleInDock": 1
+        },
+        "aussenbereich_Bühne.json#zelt_logos": {
+            "scaleInDock": 1
+        },
+        "bb.json": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 107,
+                "y": 312.5
+            }
+        },
+        "bb.json#ball-pit-1661375_960_720": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bb.json#chickbaby": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bb.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bb.json#image_2021-07-05_19-33-55": {
+            "scaleInDock": 1
+        },
+        "bb.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bb.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bb.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "darkroom.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 634.6666666666666,
+                "y": 838
+            }
+        },
+        "darkroom.json#collide_dark": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "darkroom.json#dark": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "darkroom.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "endlosergang.json": {
+            "scale": 0.75584375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.9949146235581,
+                "y": 800.429983048745
+            }
+        },
+        "endlosergang.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "endlosergang.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "endlosergang.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "endlosergang.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "endlosergang.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "endlosergang.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "endlosergang.json#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "endlosergang.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "endlosergang_1.json": {
+            "scale": 0.7724687499999999,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 128.8077996682714,
+                "y": 800.032363768761
+            }
+        },
+        "endlosergang_1.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "endlosergang_1.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "endlosergang_1.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "endlosergang_1.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "endlosergang_1.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "endlosergang_1.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "endlosergang_1.json#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "endlosergang_1.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "endlosergang_2.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.5,
+                "y": 800
+            }
+        },
+        "endlosergang_2.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "endlosergang_2.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "endlosergang_2.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "endlosergang_2.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "endlosergang_2.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "endlosergang_2.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "endlosergang_2.json#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "endlosergang_2.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "endlosergang_3.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.5,
+                "y": 800
+            }
+        },
+        "endlosergang_3.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "endlosergang_3.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "endlosergang_3.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "endlosergang_3.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "endlosergang_3.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "endlosergang_3.json#tileset-lagerfeuer": {
+            "scaleInDock": 1
+        },
+        "endlosergang_3.json#tileset-sz-banner": {
+            "scaleInDock": 1
+        },
+        "endlosergang_3.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "gang.json": {
+            "scale": 0.77,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 114.28571428571422,
+                "y": 981.168831168831
+            }
+        },
+        "gang.json#KameraAufDreibein": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#collide_tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json": {
+            "scale": 0.77,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 116.88311688311683,
+                "y": 983.7662337662337
+            }
+        },
+        "gang_endlos_1.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_1.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json": {
+            "scale": 0.77,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 116.88311688311683,
+                "y": -118.83116883116884
+            }
+        },
+        "gang_endlos_2.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_2.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json": {
+            "scale": 0.77,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 100.00000000000006,
+                "y": 983.7662337662337
+            }
+        },
+        "gang_endlos_3.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "gang_endlos_3.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json": {
+            "scale": 1.09,
+            "selectedLayer": 21,
+            "viewCenter": {
+                "x": 493.57798165137615,
+                "y": 489.4495412844036
+            }
+        },
+        "innenbuehne.json#1440-198-max": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#Bierzeltgarnitur": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#BierzeltgarniturHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#BierzeltgarniturNochHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#IngoPodmingo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#KameraAufDreibein": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#PodstockLogo32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#PodstockLogo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#Sofa1": {
+            "scaleInDock": 1
+        },
+        "innenbuehne.json#Sofa1_3x1": {
+            "scaleInDock": 1
+        },
+        "innenbuehne.json#Sofa2": {
+            "scaleInDock": 1
+        },
+        "innenbuehne.json#Sofa2_1x2": {
+            "scaleInDock": 1
+        },
+        "innenbuehne.json#Sofa3": {
+            "scaleInDock": 1
+        },
+        "innenbuehne.json#Sofa3_1x2": {
+            "scaleInDock": 1
+        },
+        "innenbuehne.json#TilesetSofa": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "innenbuehne.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "innenbuehne.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json": {
+            "scale": 2.01,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 281.59203980099505,
+                "y": 229.10447761194035
+            }
+        },
+        "kaminzimmer.json#KameraAufDreibein": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#PodstockLogo32ohneText": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#TilesetSofa": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "kaminzimmer.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.5,
+                "y": 278
+            }
+        },
+        "konstrukt.json#Bierzeltgarnitur": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#BierzeltgarniturHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#BierzeltgarniturNochHeller": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#Bäume": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#PodstockLogo32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#anthrazit32": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#cube": {
+            "scaleInDock": 0.75
+        },
+        "konstrukt.json#cube_704x704_rand": {
+            "scaleInDock": 0.33
+        },
+        "konstrukt.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "konstrukt.json#zelt_logos": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json": {
+            "scale": 2.0995659722222224,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.15479389754825,
+                "y": 289.1073717286145
+            }
+        },
+        "kontrukt.json#Bierzeltgarnitur": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json#BierzeltgarniturHeller": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json#BierzeltgarniturNochHeller": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json#Bäume": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json#PodstockLogo32": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "kontrukt.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "labyrinth.json": {
+            "scale": 0.2588505993150685,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2343.0503989746558,
+                "y": 2909.0139331045602
+            }
+        },
+        "labyrinth.json#anthrazit32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "labyrinth.json#cube_704x704_rand": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "labyrinth.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json": {
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 288.25,
+                "y": 47.5
+            }
+        },
+        "musikzimmer.json#IngoPodmingo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#KameraAufDreibein": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#PodstockLogo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#colide_tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#drums64x96": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#tileset-sz-banner": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "musikzimmer.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 432.5,
+                "y": 569
+            }
+        },
+        "orga_treffen.json#PodstockLogo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#TilesetSofa": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#ball-pit-1661375_960_720": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#drums64x96": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#tileset-lagerfeuer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#tileset_lagerfeuer_gross": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "orga_treffen.json#zelt-bunt": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json": {
+            "scale": 2.69,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 128.43866171003717,
+                "y": 276.57992565055764
+            }
+        },
+        "uhz.json#Elefant180": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#Fenster": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#PodstockLogo32": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#PodstockLogo64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#Unterhaltungszimmer_Logo_64": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#collide_tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "uhz.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "warteraum.json": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 133,
+                "y": 209
+            }
+        },
+        "warteraum.json#Bierzeltgarnitur": {
+            "scaleInDock": 1
+        },
+        "warteraum.json#BierzeltgarniturHeller": {
+            "scaleInDock": 1
+        },
+        "warteraum.json#BierzeltgarniturNochHeller": {
+            "scaleInDock": 1
+        },
+        "warteraum.json#Bäume": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "warteraum.json#PodstockLogo32": {
+            "scaleInDock": 1
+        },
+        "warteraum.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "warteraum.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "warteraum.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "warteraum.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1
+        },
+        "warteraum.json#tileset-sz-deko": {
+            "scaleInDock": 1
+        },
+        "windfang.json": {
+            "scale": 2.69,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 80.11152416356876,
+                "y": 185.1301115241636
+            }
+        },
+        "windfang.json#Fenster": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "windfang.json#colide_tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "windfang.json#collide_tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "windfang.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "windfang.json#tileset-basechip-pipoya": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "windfang.json#tileset-sz-deko": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "windfang.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "windfang.json#winke-kadse": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "frame.defaultDuration": 200,
+    "last.externalTilesetPath": "/Users/ral_mey/Documents/GitHub/workadventure-workshop/tilesets",
+    "last.imagePath": "/Users/ral_mey/Documents/GitHub/workadventure-workshop/tilesets",
+    "loadedWorlds": [
+    ],
+    "map.height": 30,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "json",
+    "map.width": 40,
+    "openFiles": [
+        "aussenbereich_Bühne.json",
+        "aussenbereich.json",
+        "aussenbereich2.json",
+        "bb.json",
+        "darkroom.json",
+        "gang_endlos_1.json",
+        "gang_endlos_2.json",
+        "gang_endlos_3.json",
+        "gang.json",
+        "innenbuehne.json",
+        "kaminzimmer.json",
+        "Kekse.json",
+        "konstrukt.json",
+        "labyrinth.json",
+        "musikzimmer.json"
+    ],
+    "project": "",
+    "property.type": "string",
+    "recentFiles": [
+        "aussenbereich.json",
+        "aussenbereich2.json",
+        "aussenbereich_Bühne.json",
+        "bb.json",
+        "darkroom.json",
+        "gang_endlos_1.json",
+        "gang_endlos_2.json",
+        "gang_endlos_3.json",
+        "gang.json",
+        "innenbuehne.json",
+        "kaminzimmer.json",
+        "/Users/ral_mey/Documents/GitHub/workadventure-workshop/Kekse/Kekse.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "All Files (*)"
+}
