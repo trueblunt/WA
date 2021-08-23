@@ -1170,7 +1170,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tilesets\/floortileset.png",
+         "image":"podstock_2021_tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1183,7 +1183,7 @@
         {
          "columns":8,
          "firstgid":65,
-         "image":"..\/tilesets\/collide_tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/collide_tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -10773,7 +10773,7 @@
         {
          "columns":8,
          "firstgid":1129,
-         "image":"..\/tilesets\/tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -10786,7 +10786,7 @@
         {
          "columns":3,
          "firstgid":2193,
-         "image":"..\/tilesets\/Fenster.png",
+         "image":"podstock_2021_tilesets\/Fenster.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -10799,7 +10799,7 @@
         {
          "columns":18,
          "firstgid":2202,
-         "image":"..\/tilesets\/tileset-lagerfeuer.png",
+         "image":"podstock_2021_tilesets\/tileset-lagerfeuer.png",
          "imageheight":96,
          "imagewidth":576,
          "margin":0,
@@ -10812,7 +10812,7 @@
         {
          "columns":40,
          "firstgid":2256,
-         "image":"..\/tilesets\/tileset_lagerfeuer_gross.png",
+         "image":"podstock_2021_tilesets\/tileset_lagerfeuer_gross.png",
          "imageheight":160,
          "imagewidth":1280,
          "margin":0,
@@ -13158,7 +13158,7 @@
         {
          "columns":12,
          "firstgid":2456,
-         "image":"..\/tilesets\/tileset-sz-deko.png",
+         "image":"podstock_2021_tilesets\/tileset-sz-deko.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -13171,7 +13171,7 @@
         {
          "columns":15,
          "firstgid":2648,
-         "image":"..\/tilesets\/zelt-bunt.png",
+         "image":"podstock_2021_tilesets\/zelt-bunt.png",
          "imageheight":384,
          "imagewidth":480,
          "margin":0,
@@ -13184,7 +13184,7 @@
         {
          "columns":15,
          "firstgid":2828,
-         "image":"..\/tilesets\/collide_zelt-bunt.png",
+         "image":"podstock_2021_tilesets\/collide_zelt-bunt.png",
          "imageheight":384,
          "imagewidth":480,
          "margin":0,
@@ -14818,7 +14818,7 @@
         {
          "columns":10,
          "firstgid":3008,
-         "image":"..\/tilesets\/zelt_logos.png",
+         "image":"podstock_2021_tilesets\/zelt_logos.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -14837,7 +14837,7 @@
         {
          "columns":16,
          "firstgid":3108,
-         "image":"..\/tilesets\/WasnTileset.png",
+         "image":"podstock_2021_tilesets\/WasnTileset.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -17155,7 +17155,7 @@
         {
          "columns":32,
          "firstgid":3364,
-         "image":"..\/tilesets\/B\u00e4ume.png",
+         "image":"podstock_2021_tilesets\/B\u00e4ume.png",
          "imageheight":512,
          "imagewidth":1024,
          "margin":0,
@@ -21777,7 +21777,7 @@
         {
          "columns":1,
          "firstgid":3876,
-         "image":"..\/tilesets\/KameraAufDreibein.png",
+         "image":"podstock_2021_tilesets\/KameraAufDreibein.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -21809,7 +21809,7 @@
         {
          "columns":1,
          "firstgid":3878,
-         "image":"..\/tilesets\/PodstockLogo32.png",
+         "image":"podstock_2021_tilesets\/PodstockLogo32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -21822,7 +21822,7 @@
         {
          "columns":2,
          "firstgid":3879,
-         "image":"..\/tilesets\/dark.jpeg",
+         "image":"podstock_2021_tilesets\/dark.jpeg",
          "imageheight":64,
          "imagewidth":70,
          "margin":0,
@@ -21835,7 +21835,7 @@
         {
          "columns":2,
          "firstgid":3883,
-         "image":"..\/tilesets\/PodstockLogo64.png",
+         "image":"podstock_2021_tilesets\/PodstockLogo64.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -21848,7 +21848,7 @@
         {
          "columns":4,
          "firstgid":3887,
-         "image":"..\/tilesets\/Logos.png",
+         "image":"podstock_2021_tilesets\/Logos.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -21861,7 +21861,7 @@
         {
          "columns":20,
          "firstgid":3903,
-         "image":"..\/tilesets\/love.png",
+         "image":"podstock_2021_tilesets\/love.png",
          "imageheight":64,
          "imagewidth":640,
          "margin":0,

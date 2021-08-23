@@ -143,7 +143,7 @@
         {
          "columns":5,
          "firstgid":1,
-         "image":"..\/tilesets\/ball-pit-1661375_960_720.jpeg",
+         "image":"podstock_2021_tilesets\/ball-pit-1661375_960_720.jpeg",
          "imageheight":106,
          "imagewidth":160,
          "margin":0,
@@ -156,7 +156,7 @@
         {
          "columns":8,
          "firstgid":16,
-         "image":"..\/tilesets\/collide_tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/collide_tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9746,7 +9746,7 @@
         {
          "columns":8,
          "firstgid":1080,
-         "image":"..\/tilesets\/tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9759,7 +9759,7 @@
         {
          "columns":16,
          "firstgid":2144,
-         "image":"..\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"podstock_2021_tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -9772,7 +9772,7 @@
         {
          "columns":4,
          "firstgid":2400,
-         "image":"..\/tilesets\/winke-kadse.png",
+         "image":"podstock_2021_tilesets\/winke-kadse.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -9814,7 +9814,7 @@
         {
          "columns":12,
          "firstgid":2404,
-         "image":"..\/tilesets\/chickbaby.png",
+         "image":"podstock_2021_tilesets\/chickbaby.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,

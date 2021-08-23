@@ -540,7 +540,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/workadventure\/tilesets\/tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -553,7 +553,7 @@
         {
          "columns":2,
          "firstgid":1065,
-         "image":"..\/..\/workadventure\/tilesets\/PodstockLogo64.png",
+         "image":"podstock_2021_tilesets\/PodstockLogo64.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -566,7 +566,7 @@
         {
          "columns":8,
          "firstgid":1069,
-         "image":"..\/..\/workadventure\/tilesets\/collide_tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/collide_tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -10156,7 +10156,7 @@
         {
          "columns":18,
          "firstgid":2133,
-         "image":"..\/..\/workadventure\/tilesets\/tileset-lagerfeuer.png",
+         "image":"podstock_2021_tilesets\/tileset-lagerfeuer.png",
          "imageheight":96,
          "imagewidth":576,
          "margin":0,
@@ -10390,7 +10390,7 @@
         {
          "columns":40,
          "firstgid":2187,
-         "image":"..\/..\/workadventure\/tilesets\/tileset_lagerfeuer_gross.png",
+         "image":"podstock_2021_tilesets\/tileset_lagerfeuer_gross.png",
          "imageheight":160,
          "imagewidth":1280,
          "margin":0,
@@ -10968,7 +10968,7 @@
         {
          "columns":5,
          "firstgid":2387,
-         "image":"..\/..\/workadventure\/tilesets\/ball-pit-1661375_960_720.jpeg",
+         "image":"podstock_2021_tilesets\/ball-pit-1661375_960_720.jpeg",
          "imageheight":106,
          "imagewidth":160,
          "margin":0,
@@ -10981,7 +10981,7 @@
         {
          "columns":8,
          "firstgid":2402,
-         "image":"..\/..\/workadventure\/tilesets\/floortileset.png",
+         "image":"podstock_2021_tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -10994,7 +10994,7 @@
         {
          "columns":16,
          "firstgid":2466,
-         "image":"..\/..\/workadventure\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"podstock_2021_tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -11007,7 +11007,7 @@
         {
          "columns":12,
          "firstgid":2722,
-         "image":"..\/..\/workadventure\/tilesets\/tileset-sz-deko.png",
+         "image":"podstock_2021_tilesets\/tileset-sz-deko.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -11081,7 +11081,7 @@
         {
          "columns":16,
          "firstgid":2914,
-         "image":"..\/..\/workadventure\/tilesets\/food_and_drinks.png",
+         "image":"podstock_2021_tilesets\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -11094,7 +11094,7 @@
         {
          "columns":2,
          "firstgid":3938,
-         "image":"..\/..\/workadventure\/tilesets\/drums64x96.png",
+         "image":"podstock_2021_tilesets\/drums64x96.png",
          "imageheight":96,
          "imagewidth":64,
          "margin":0,
@@ -11107,7 +11107,7 @@
         {
          "columns":15,
          "firstgid":3944,
-         "image":"..\/..\/workadventure\/tilesets\/zelt-bunt.png",
+         "image":"podstock_2021_tilesets\/zelt-bunt.png",
          "imageheight":384,
          "imagewidth":480,
          "margin":0,
@@ -11120,7 +11120,7 @@
         {
          "columns":8,
          "firstgid":4124,
-         "image":"..\/..\/workadventure\/tilesets\/TilesetSofa.png",
+         "image":"podstock_2021_tilesets\/TilesetSofa.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -11133,7 +11133,7 @@
         {
          "columns":16,
          "firstgid":4188,
-         "image":"..\/..\/workadventure\/tilesets\/food_and_drinks.png",
+         "image":"podstock_2021_tilesets\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,

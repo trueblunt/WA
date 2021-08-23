@@ -95,7 +95,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tilesets\/tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9685,7 +9685,7 @@
         {
          "columns":2,
          "firstgid":1065,
-         "image":"..\/tilesets\/dark.jpeg",
+         "image":"podstock_2021_tilesets\/dark.jpeg",
          "imageheight":64,
          "imagewidth":70,
          "margin":0,
@@ -9698,7 +9698,7 @@
         {
          "columns":2,
          "firstgid":1069,
-         "image":"..\/tilesets\/collide_dark.jpeg",
+         "image":"podstock_2021_tilesets\/collide_dark.jpeg",
          "imageheight":64,
          "imagewidth":70,
          "margin":0,

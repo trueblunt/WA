@@ -228,7 +228,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tilesets\/tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -241,7 +241,7 @@
         {
          "columns":8,
          "firstgid":1065,
-         "image":"..\/tilesets\/floortileset.png",
+         "image":"podstock_2021_tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -254,7 +254,7 @@
         {
          "columns":8,
          "firstgid":1129,
-         "image":"..\/tilesets\/collide_tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/collide_tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9844,7 +9844,7 @@
         {
          "columns":3,
          "firstgid":2193,
-         "image":"..\/tilesets\/Bierzeltgarnitur.png",
+         "image":"podstock_2021_tilesets\/Bierzeltgarnitur.png",
          "imageheight":32,
          "imagewidth":96,
          "margin":0,
@@ -9857,7 +9857,7 @@
         {
          "columns":3,
          "firstgid":2196,
-         "image":"..\/tilesets\/BierzeltgarniturHeller.png",
+         "image":"podstock_2021_tilesets\/BierzeltgarniturHeller.png",
          "imageheight":32,
          "imagewidth":96,
          "margin":0,
@@ -9870,7 +9870,7 @@
         {
          "columns":3,
          "firstgid":2199,
-         "image":"..\/tilesets\/BierzeltgarniturNochHeller.png",
+         "image":"podstock_2021_tilesets\/BierzeltgarniturNochHeller.png",
          "imageheight":32,
          "imagewidth":96,
          "margin":0,
@@ -9883,7 +9883,7 @@
         {
          "columns":12,
          "firstgid":2202,
-         "image":"..\/tilesets\/tileset-sz-deko.png",
+         "image":"podstock_2021_tilesets\/tileset-sz-deko.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -9896,7 +9896,7 @@
         {
          "columns":32,
          "firstgid":2394,
-         "image":"..\/tilesets\/B\u00e4ume.png",
+         "image":"podstock_2021_tilesets\/B\u00e4ume.png",
          "imageheight":512,
          "imagewidth":1024,
          "margin":0,
@@ -14518,7 +14518,7 @@
         {
          "columns":16,
          "firstgid":2906,
-         "image":"..\/tilesets\/food_and_drinks.png",
+         "image":"podstock_2021_tilesets\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -14531,7 +14531,7 @@
         {
          "columns":1,
          "firstgid":3930,
-         "image":"..\/tilesets\/PodstockLogo32.png",
+         "image":"podstock_2021_tilesets\/PodstockLogo32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,

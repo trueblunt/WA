@@ -143,7 +143,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tilesets\/collide_tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/collide_tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9733,7 +9733,7 @@
         {
          "columns":8,
          "firstgid":1065,
-         "image":"..\/tilesets\/tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9746,7 +9746,7 @@
         {
          "columns":12,
          "firstgid":2129,
-         "image":"..\/tilesets\/collide_tileset-sz-deko.png",
+         "image":"podstock_2021_tilesets\/collide_tileset-sz-deko.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -11546,7 +11546,7 @@
         {
          "columns":12,
          "firstgid":2321,
-         "image":"..\/tilesets\/tileset-sz-deko.png",
+         "image":"podstock_2021_tilesets\/tileset-sz-deko.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -11559,7 +11559,7 @@
         {
          "columns":8,
          "firstgid":2513,
-         "image":"..\/tilesets\/floortileset.png",
+         "image":"podstock_2021_tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -11582,7 +11582,7 @@
         {
          "columns":18,
          "firstgid":2577,
-         "image":"..\/tilesets\/tileset-lagerfeuer.png",
+         "image":"podstock_2021_tilesets\/tileset-lagerfeuer.png",
          "imageheight":96,
          "imagewidth":576,
          "margin":0,
@@ -11595,7 +11595,7 @@
         {
          "columns":12,
          "firstgid":2631,
-         "image":"..\/tilesets\/tileset-sz-banner.png",
+         "image":"podstock_2021_tilesets\/tileset-sz-banner.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -11608,7 +11608,7 @@
         {
          "columns":16,
          "firstgid":2823,
-         "image":"..\/tilesets\/food_and_drinks.png",
+         "image":"podstock_2021_tilesets\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -20838,7 +20838,7 @@
         {
          "columns":16,
          "firstgid":3847,
-         "image":"..\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"podstock_2021_tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -23156,7 +23156,7 @@
         {
          "columns":1,
          "firstgid":4103,
-         "image":"..\/tilesets\/PodstockLogo32ohneText.png",
+         "image":"podstock_2021_tilesets\/PodstockLogo32ohneText.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,

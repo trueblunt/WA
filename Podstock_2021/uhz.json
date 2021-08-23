@@ -235,7 +235,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/workadventure\/tilesets\/colide_tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/collide_tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9825,7 +9825,7 @@
         {
          "columns":8,
          "firstgid":1065,
-         "image":"..\/..\/workadventure\/tilesets\/tileset-basechip-pipoya.png",
+         "image":"podstock_2021_tilesets\/tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9838,7 +9838,7 @@
         {
          "columns":3,
          "firstgid":2129,
-         "image":"..\/..\/workadventure\/tilesets\/Fenster.png",
+         "image":"podstock_2021_tilesets\/Fenster.png",
          "imageheight":96,
          "imagewidth":96,
          "margin":0,
@@ -9851,7 +9851,7 @@
         {
          "columns":12,
          "firstgid":2138,
-         "image":"..\/..\/workadventure\/tilesets\/tileset-sz-deko.png",
+         "image":"podstock_2021_tilesets\/tileset-sz-deko.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -9864,7 +9864,7 @@
         {
          "columns":4,
          "firstgid":2330,
-         "image":"..\/..\/workadventure\/tilesets\/winke-kadse.png",
+         "image":"podstock_2021_tilesets\/winke-kadse.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -9906,7 +9906,7 @@
         {
          "columns":16,
          "firstgid":2334,
-         "image":"..\/..\/workadventure\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"podstock_2021_tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -9919,7 +9919,7 @@
         {
          "columns":16,
          "firstgid":2590,
-         "image":"..\/..\/workadventure\/tilesets\/collide_tilesets_deviant_milkian_1.png",
+         "image":"podstock_2021_tilesets\/collide_tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -12237,7 +12237,7 @@
         {
          "columns":2,
          "firstgid":2846,
-         "image":"..\/..\/workadventure\/tilesets\/Unterhaltungszimmer_Logo_64.jpeg",
+         "image":"podstock_2021_tilesets\/Unterhaltungszimmer_Logo_64.jpeg",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -12250,7 +12250,7 @@
         {
          "columns":1,
          "firstgid":2850,
-         "image":"..\/..\/workadventure\/tilesets\/PodstockLogo32.png",
+         "image":"podstock_2021_tilesets\/PodstockLogo32.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -12263,7 +12263,7 @@
         {
          "columns":2,
          "firstgid":2851,
-         "image":"..\/..\/workadventure\/tilesets\/PodstockLogo64.png",
+         "image":"podstock_2021_tilesets\/PodstockLogo64.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -12276,7 +12276,7 @@
         {
          "columns":1,
          "firstgid":2855,
-         "image":"..\/..\/workadventure\/tilesets\/Elefant180.png",
+         "image":"podstock_2021_tilesets\/Elefant180.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
