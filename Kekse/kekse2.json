@@ -111,7 +111,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tilesets\/floortileset.png",
+         "image":"kekse_tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -124,7 +124,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/tilesets\/tilesets_deviant_milkian_1.png",
+         "image":"kekse_tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -137,7 +137,7 @@
         {
          "columns":8,
          "firstgid":321,
-         "image":"..\/tilesets\/tileset-basechip-pipoya.png",
+         "image":"kekse_tilesets\/tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,

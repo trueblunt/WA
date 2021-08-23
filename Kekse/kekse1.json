@@ -237,7 +237,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/tilesets\/collide_tileset-basechip-pipoya.png",
+         "image":"kekse_tilesets\/collide_tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9827,7 +9827,7 @@
         {
          "columns":8,
          "firstgid":1065,
-         "image":"..\/tilesets\/tileset-basechip-pipoya.png",
+         "image":"kekse_tilesets\/tileset-basechip-pipoya.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -9840,7 +9840,7 @@
         {
          "columns":12,
          "firstgid":2129,
-         "image":"..\/tilesets\/tileset-sz-deko.png",
+         "image":"kekse_tilesets\/tileset-sz-deko.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -11640,7 +11640,7 @@
         {
          "columns":12,
          "firstgid":2321,
-         "image":"..\/tilesets\/tileset-sz-deko.png",
+         "image":"kekse_tilesets\/tileset-sz-deko.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -11653,7 +11653,7 @@
         {
          "columns":8,
          "firstgid":2513,
-         "image":"..\/tilesets\/floortileset.png",
+         "image":"kekse_tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -11676,7 +11676,7 @@
         {
          "columns":18,
          "firstgid":2577,
-         "image":"..\/tilesets\/tileset-lagerfeuer.png",
+         "image":"kekse_tilesets\/tileset-lagerfeuer.png",
          "imageheight":96,
          "imagewidth":576,
          "margin":0,
@@ -11689,7 +11689,7 @@
         {
          "columns":12,
          "firstgid":2631,
-         "image":"..\/tilesets\/tileset-sz-banner.png",
+         "image":"kekse_tilesets\/tileset-sz-banner.png",
          "imageheight":512,
          "imagewidth":384,
          "margin":0,
@@ -11702,7 +11702,7 @@
         {
          "columns":16,
          "firstgid":2823,
-         "image":"..\/tilesets\/food_and_drinks.png",
+         "image":"kekse_tilesets\/food_and_drinks.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -20932,7 +20932,7 @@
         {
          "columns":4,
          "firstgid":3847,
-         "image":"..\/tilesets\/winke-kadse.png",
+         "image":"kekse_tilesets\/winke-kadse.png",
          "imageheight":32,
          "imagewidth":128,
          "margin":0,
@@ -20974,7 +20974,7 @@
         {
          "columns":1,
          "firstgid":3851,
-         "image":"..\/tilesets\/PodstockLogo32ohneText.png",
+         "image":"kekse_tilesets\/PodstockLogo32ohneText.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -20987,7 +20987,7 @@
         {
          "columns":8,
          "firstgid":3852,
-         "image":"..\/tilesets\/TilesetSofa.png",
+         "image":"kekse_tilesets\/TilesetSofa.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -21000,7 +21000,7 @@
         {
          "columns":1,
          "firstgid":3916,
-         "image":"..\/tilesets\/KameraAufDreibein.png",
+         "image":"kekse_tilesets\/KameraAufDreibein.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
